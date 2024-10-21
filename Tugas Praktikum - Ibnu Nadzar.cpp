@@ -4,6 +4,9 @@
 
 using namespace std;
 
+
+// Komentar untuk tugas
+
 // Kelas dasar untuk Aset
 class Aset {
 public:
